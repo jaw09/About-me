@@ -34,14 +34,16 @@
 
 ## Works
 
-- [BMI Calculator](https://github.com/jaw09/BMI_calculator)
+- [BMI Calculator](https://jaw09.github.io/BMI_calculator/)
+  - [Github(]https://github.com/jaw09/BMI_calculator)
 
 - [六角西餐廳](https://jaw09.github.io/liujiao_restaurant/)
   1. SCSS
   2. 手刻RWD
   3. jQuery
 
-- [高雄旅遊資訊](https://jaw09.github.io/gaoxiongSpots/) 
+- [高雄旅遊資訊](https://jaw09.github.io/gaoxiongSpots/)
+  - [Github(]https://github.com/jaw09/gaoxiongSpots)
   1. AJAX/API
   2. 高雄市政府資料開放平臺
 
@@ -69,6 +71,7 @@
 
 - 餐廳評論網
   - [Github](https://github.com/jaw09/restaurant_forum)
+  
 - [Simple Twitter Clone](https://jaw-simple-twitter.herokuapp.com/users/sign_in)
   -  [Github](https://github.com/jaw09/simple-twitter)
   1. Ruby on Rails
