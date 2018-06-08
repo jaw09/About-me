@@ -35,7 +35,7 @@
 ## Works
 
 - [BMI Calculator](https://jaw09.github.io/BMI_calculator/)
-  - [Github(]https://github.com/jaw09/BMI_calculator)
+  - [Github](https://github.com/jaw09/BMI_calculator)
 
 - [六角西餐廳](https://jaw09.github.io/liujiao_restaurant/)
   1. SCSS
@@ -43,7 +43,7 @@
   3. jQuery
 
 - [高雄旅遊資訊](https://jaw09.github.io/gaoxiongSpots/)
-  - [Github(]https://github.com/jaw09/gaoxiongSpots)
+  - [Github](https://github.com/jaw09/gaoxiongSpots)
   1. AJAX/API
   2. 高雄市政府資料開放平臺
 
