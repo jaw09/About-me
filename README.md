@@ -12,9 +12,7 @@
 
 ### Frontend
 
-- 使用 HTML5、CSS3 開發前端網頁
-- 使用 SCSS 做頁面管理
-- 有 RWD 規劃網頁的經驗
+- 使用 SCSS + RWD 規劃 Web Layout
 - 使用 jQuery 製作網頁動畫效果，並能導入第三方套件
 - 使用 Bootstrap4 做網頁排版，且能使用 Flexbox
 - 熟悉 JavaScript，具備串接 RESTful API 經驗
@@ -30,22 +28,17 @@
 
 - Git/GitHub 基本使用(GUI：Source Tree)
 
----
-
 ## Works
 
-- [BMI Calculator](https://jaw09.github.io/BMI_calculator/)
-  - [Github](https://github.com/jaw09/BMI_calculator)
+- [Node.js Blog](https://github.com/jaw09/node-blog)
+  1. Boostrap 4
+  2. Node, Express
+  3. Firebase
 
 - [六角西餐廳](https://jaw09.github.io/liujiao_restaurant/)
   1. SCSS
   2. 手刻RWD
   3. jQuery
-
-- [高雄旅遊資訊](https://jaw09.github.io/gaoxiongSpots/)
-  - [Github](https://github.com/jaw09/gaoxiongSpots)
-  1. AJAX/API
-  2. 高雄市政府資料開放平臺
 
 - [Vue - Stocks Trader](http://vue-stocks-trader.s3-website-ap-northeast-1.amazonaws.com)
   - [Github](https://github.com/jaw09/vue-stock-trader)
@@ -63,11 +56,6 @@
   2. Localstorage
   3. Heroku
   4. Boostrap 4
-
-- [Node.js Blog](https://github.com/jaw09/node-blog)
-  1. Boostrap 4
-  2. Node, Express
-  3. Firebase
 
 - 餐廳評論網
   - [Github](https://github.com/jaw09/restaurant_forum)
