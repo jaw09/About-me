@@ -40,6 +40,15 @@
   2. 手刻RWD
   3. jQuery
 
+- [Vue - Todolist](http://vue-todolit.s3-website-ap-northeast-1.amazonaws.com/)
+  - [Github](https://github.com/jaw09/Vue-todo-list)
+  1. Vue CLI
+  2. Vuex
+  3. Axios
+  4. Firebase
+  5. Boostrap 4, Flexbox
+  6. SCSS
+
 - [Vue - Stocks Trader](http://vue-stocks-trader.s3-website-ap-northeast-1.amazonaws.com)
   - [Github](https://github.com/jaw09/vue-stock-trader)
   1. Vue CLI
@@ -48,7 +57,6 @@
   4. Axios
   5. Firebase
   6. Boostrap 4
-  7. Amazon S3
 
 - [Vue - Sticky Note](https://vue-stickynotes.herokuapp.com/)
   - [Github](https://github.com/jaw09/vue-sticky-notes)
